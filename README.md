@@ -111,23 +111,9 @@ The `Analysis` folder contains the final CPI analysis report with supporting tab
 
 The project was also analyzed and presented in Google Sheets.
 
-**[View CPI Analysis on Google Sheets](https://docs.google.com/spreadsheets/d/1rRWbTjV0BQ3a8TDSUKaiXtgqN7EhYWrbgV302ANB6do/edit?usp=sharing)**
+[View CPI Analysis on Google Sheets](https://docs.google.com/spreadsheets/d/1rRWbTjV0BQ3a8TDSUKaiXtgqN7EhYWrbgV302ANB6do/edit?usp=sharing)
 
 > The Google Sheets link should be set to **Anyone with the link → Viewer** before sharing the repository.
-
-## Repository Structure
-
-```text
-cpi-analysis/
-│
-├── README.md
-│
-├── Raw_Data/
-│   └── CPI_Raw_Data.xlsx
-│
-└── Analysis/
-    └── CPI_Analysis_Report.pdf
-```
 
 ## Skills Demonstrated
 
@@ -147,10 +133,3 @@ cpi-analysis/
 
 This project demonstrates an end-to-end spreadsheet-based approach to analyzing CPI and inflation data. It combines data preparation, trend analysis, inflation analysis, category contribution analysis, COVID-19 analysis, correlation analysis, and visualization to derive insights from economic data.
 
-## Author
-
-**Jitesh Kumar**
-
-Aspiring Data Analyst
-
-**Skills:** Excel | SQL | Power BI | Python | Google Sheets | Data Analysis
