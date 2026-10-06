@@ -111,7 +111,7 @@ The `Analysis` folder contains the final CPI analysis report with supporting tab
 
 The project was also analyzed and presented in Google Sheets.
 
-[View CPI Analysis on Google Sheets](https://docs.google.com/spreadsheets/d/1rRWbTjV0BQ3a8TDSUKaiXtgqN7EhYWrbgV302ANB6do/edit?usp=sharing)
+[View CPI Raw+Analysis on Google Sheets](https://docs.google.com/spreadsheets/d/1rRWbTjV0BQ3a8TDSUKaiXtgqN7EhYWrbgV302ANB6do/edit?usp=sharing)
 
 > The Google Sheets link should be set to **Anyone with the link → Viewer** before sharing the repository.
 
